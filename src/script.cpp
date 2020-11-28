@@ -469,7 +469,7 @@ bool EvalScript(vector<vector<unsigned char> >& stack, const CScript& script, co
                 //
                 // Stack ops
                 //
-                case OP_MCBLTSTACK:
+                case OP_TOALTSTACK:
                 {
                     if (stack.size() < 1)
                         return false;
