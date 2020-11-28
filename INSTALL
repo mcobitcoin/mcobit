@@ -1,0 +1,9 @@
+Building MCB
+
+See doc/readme-qt.rst for instructions on building MCB QT,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of MCB.
+
+See doc/build-*.txt for instructions on building mcbd,
+the intended-for-services, no-graphical-interface, reference
+implementation of MCB.

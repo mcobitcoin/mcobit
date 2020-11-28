@@ -1,0 +1,50 @@
+# Prerequisites
+*.d
+
+# Compiled Object files
+*.slo
+*.lo
+*.o
+*.obj
+
+# Precompiled Headers
+*.gch
+*.pch
+
+# Compiled Dynamic libraries
+*.so
+*.dylib
+*.dll
+
+# Fortran module files
+*.mod
+*.smod
+
+# Compiled Static libraries
+*.lai
+*.la
+*.a
+*.lib
+
+# Executables
+*.exe
+*.out
+*.app
+
+build/
+compile-mcb.sh
+lib/
+plugins/
+release/
+compile-mcb.sh
+MCB-qt.pro.user
+contrib/
+translations/
+src/mcbd
+src/.DS_Store
+src/qt/res/.DS_Store
+src/qt/res/images/.DS_Store
+.DS_Store
+MCB-Qt.dmg
+MCB-qt.pro.autosave
+*.qm
