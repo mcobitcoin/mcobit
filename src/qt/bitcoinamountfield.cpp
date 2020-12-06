@@ -32,7 +32,7 @@ BitcoinAmountField::BitcoinAmountField(QWidget *parent):
     int width = unit->minimumSizeHint().width();
     unit->setMinimumWidth(width);
 
-    unit->setStyleSheet("QComboBox:selected { background-color: #78a539; }");
+    unit->setStyleSheet("QComboBox:selected { background-color: #65A7FC; }");
 
 
 
