@@ -37,7 +37,7 @@ SendCoinsDialog::SendCoinsDialog(QWidget *parent) :
 
 #if QT_VERSION >= 0x040700
     /* Do not move this to the XML file, Qt before 4.7 will choke on it */
-    ui->lineEditCoinControlChange->setPlaceholderText(tr("Enter a MCB address (e.g. DU9XT4kKdzWaTjp35iqJZmZR8jonCXNQpo)"));
+    ui->lineEditCoinControlChange->setPlaceholderText(tr("Enter a MCB address (e.g. MO8XT4kKdzWaTjp35iqJZmZR8jonCXNHkl)"));
 #endif
 
     addEntry();
