@@ -14,7 +14,7 @@
    <string>Signatures - Sign / Verify a Message</string>
   </property>
   <property name="styleSheet">
-   <string notr="true">background:rgba(232, 236, 241, 0.1);</string>
+   <string notr="true">background:rgba(228, 241, 254, 0.6);</string>
   </property>
   <property name="modal">
    <bool>true</bool>

@@ -13,8 +13,8 @@
   <property name="windowTitle">
    <string>Transaction details</string>
   </property>
-  <property name="styleSheet">
-   <string notr="true">background:rgba(232, 236, 241, 0.1);</string>
+  <property name="styleSheet">	
+	<string notr="true">background:rgba(228, 241, 254, 0.6);</string>
   </property>
   <layout class="QVBoxLayout" name="verticalLayout">
    <item>

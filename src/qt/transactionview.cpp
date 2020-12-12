@@ -168,7 +168,7 @@ void TransactionView::setModel(WalletModel *model)
 
         transactionProxyModel->setSortRole(Qt::EditRole);
 
-        transactionView->setStyleSheet("QTableView {background: transparent; border-width:1;}");
+        transactionView->setStyleSheet("QTableView {background:rgba(228, 241, 254, 0.6); border-width:1;}");
 
         transactionView->setModel(transactionProxyModel);
         transactionView->setAlternatingRowColors(true);
