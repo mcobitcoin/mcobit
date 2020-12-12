@@ -78,7 +78,8 @@ BitcoinGUI::BitcoinGUI(QWidget *parent):
     nWeight(0)
 {
     setFixedSize(1020, 553);
-    setWindowTitle(tr("MCB") + " - " + tr("Wallet"));
+    setWindowTitle(tr("MCobit") + " - " + tr("Wallet"));
+    qApp->setStyleSheet("QMainWindow { background-image:url(:images/bkg); }");
     //qApp->setStyleSheet("QMainWindow { background-color:green);border:none;font-family:'Open Sans,sans-serif'; }");
 #ifndef Q_OS_MAC
     qApp->setWindowIcon(QIcon(":icons/bitcoin"));

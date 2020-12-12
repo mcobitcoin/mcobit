@@ -14,7 +14,7 @@
    <string>Form</string>
   </property>
   <property name="styleSheet">
-   <string notr="true">background-image: url(:/images/2s);</string>
+	<string notr="true">background:rgba(232, 236, 241, 0.1);</string>
   </property>
   <property name="frameShape">
    <enum>QFrame::StyledPanel</enum>

@@ -11,10 +11,10 @@
    </rect>
   </property>
   <property name="windowTitle">
-   <string>MCB - Debug window</string>
+   <string>MCobit - Debug window</string>
   </property>
   <property name="styleSheet">
-   <string notr="true">background-image: url(:/images/2s);</string>
+	 <string notr="true">background-image: url(:/images/bkg);</string>
   </property>
   <layout class="QVBoxLayout" name="verticalLayout_2">
    <item>
